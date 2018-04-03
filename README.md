@@ -2,6 +2,8 @@
 
 My own interpretation of the Hacker News Frontend using React and Redux.
 
+https://hacker-news-ui-clone.herokuapp.com
+
 ![screencast of the app](http://g.recordit.co/fpqXeb1dps.gif "App screencast")
 
 ## Getting Started
